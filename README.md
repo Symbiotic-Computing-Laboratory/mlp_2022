@@ -27,5 +27,6 @@ Topics include:
 - [GitHub](https://github.com/Symbiotic-Computing-Laboratory/mlp_2022)
 - [Google Drive (datasets)](https://drive.google.com/drive/folders/1dmRTQ1zHksE6e7oYHfmOwCRAvxaVaUCt?usp=sharing)
 - [YouTube Lectures](https://www.youtube.com/channel/UC8nFan5wplnzzsWLTjKGi0g)
+- [Course Web Site](https://www.symbiotic-computing.org/fagg_html/classes/mlp_2022/)
 
 
