@@ -3,7 +3,8 @@
 
 Example code, code skeletons and assignments for the Machine Learning Practice course 
 
-## Full machine learning course.  Topics include:
+## Full machine learning course.  
+Topics include:
 - Representing information and preparing data for use with ML methods
 - Classifiers and feature importance, including K-nearest neighbors, logistic regression, support vector machines
 - Decision trees: ensemble methods, random forests, and boosting
@@ -13,7 +14,7 @@ Example code, code skeletons and assignments for the Machine Learning Practice c
 - Unsupervised learning
 - Evaluation in ML: metrics, cross-validation, statistics, addressing the multiple comparisons problem 
 
-## Assumptions:
+## Assumptions
 - Programming skills in an object-oriented language.
 
 ## Tools that we use
@@ -22,8 +23,9 @@ Example code, code skeletons and assignments for the Machine Learning Practice c
 - Numpy
 - Scikit-Learn
 
-## Supporting respositories:
+## Supporting respositories
 - [GitHub](https://github.com/Symbiotic-Computing-Laboratory/mlp_2022)
 - [Google Drive (datasets)](https://drive.google.com/drive/folders/1dmRTQ1zHksE6e7oYHfmOwCRAvxaVaUCt?usp=sharing)
+- [YouTube Lectures](https://www.youtube.com/channel/UC8nFan5wplnzzsWLTjKGi0g)
 
 
