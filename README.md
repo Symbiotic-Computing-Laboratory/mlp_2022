@@ -13,17 +13,17 @@ Example code, code skeletons and assignments for the Machine Learning Practice c
 - Unsupervised learning
 - Evaluation in ML: metrics, cross-validation, statistics, addressing the multiple comparisons problem 
 
-##Assumptions: 
+## Assumptions:
 - Programming skills in an object-oriented language.
 
-## Tools that we use: 
+## Tools that we use
 - Python
 - Pandas
 - Numpy
 - Scikit-Learn
 
 ## Supporting respositories:
-- GitHub: https://github.com/Symbiotic-Computing-Laboratory/mlp_2022
-- Google Drive (datasets): https://drive.google.com/drive/folders/1dmRTQ1zHksE6e7oYHfmOwCRAvxaVaUCt?usp=sharing
+- [GitHub](https://github.com/Symbiotic-Computing-Laboratory/mlp_2022)
+- [Google Drive (datasets)](https://drive.google.com/drive/folders/1dmRTQ1zHksE6e7oYHfmOwCRAvxaVaUCt?usp=sharing)
 
 
